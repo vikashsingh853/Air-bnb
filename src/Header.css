@@ -40,3 +40,21 @@
   width: 15vw;
   margin-right: 80px;
 }
+
+@media (max-width:600px) {
+
+
+  div .header__center .header__icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+  }
+
+  .header__right{
+    display: flex;
+    
+
+  }
+  
+}
